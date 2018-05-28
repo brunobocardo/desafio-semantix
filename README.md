@@ -38,7 +38,7 @@ Salva o arquivo com a contagem das palavras.
 
 
 
-# Respostas das quetões do desafio:
+# Respostas das questões do desafio:
 
 1)Número de hosts únicos?
 
