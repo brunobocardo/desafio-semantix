@@ -34,3 +34,45 @@ counts.saveAsTextFile("hdfs://...")
 R: Abre o arquivo texto e "splita" por espaço e cria um lista de 1 linha com todas as palavras.
 Conta cada palavra na lista e depois reduz para contar as palavras unicas.
 Salva o arquivo com a contagem das palavras.
+
+
+
+
+# Respostas das quetões do desafio:
+
+1)Número de hosts únicos?
+
+
+
+
+
+
+
+2)O total de erros 404?
+
+
+
+
+
+
+
+
+3)Os 5 URLs que mais causaram erro 404?
+
+
+
+
+
+
+
+
+4)Quantidade de erros 404 por dia?
+
+
+
+
+
+
+
+
+5)O total de bytes retornados?
